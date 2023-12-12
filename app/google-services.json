@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "61518282836",
+    "firebase_url": "https://managed-care-1495009225542.firebaseio.com",
+    "project_id": "managed-care-1495009225542",
+    "storage_bucket": "managed-care-1495009225542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61518282836:android:4b9a50cc152887cd",
+        "android_client_info": {
+          "package_name": "com.avo.transassured"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgcQhNSFhCCIKPXHUdyON9f_2SiHodx8"
+        },
+        {
+          "current_key": "AIzaSyBHZSJksTYzP0bnSdG2gMfkurzibRrbA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61518282836-898mjh39tjf9jfedraabgiluvf84529b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movocado.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61518282836:android:80c466c1dcf66b6e",
+        "android_client_info": {
+          "package_name": "com.managedcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgcQhNSFhCCIKPXHUdyON9f_2SiHodx8"
+        },
+        {
+          "current_key": "AIzaSyBHZSJksTYzP0bnSdG2gMfkurzibRrbA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61518282836-898mjh39tjf9jfedraabgiluvf84529b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movocado.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61518282836:android:71aea7fa6abe63ba",
+        "android_client_info": {
+          "package_name": "com.portal.transassured"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgcQhNSFhCCIKPXHUdyON9f_2SiHodx8"
+        },
+        {
+          "current_key": "AIzaSyBHZSJksTYzP0bnSdG2gMfkurzibRrbA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61518282836-898mjh39tjf9jfedraabgiluvf84529b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movocado.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61518282836:android:31406d5c11dc97aaf9adc1",
+        "android_client_info": {
+          "package_name": "com.rajendra.map_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgcQhNSFhCCIKPXHUdyON9f_2SiHodx8"
+        },
+        {
+          "current_key": "AIzaSyBHZSJksTYzP0bnSdG2gMfkurzibRrbA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61518282836-ja31n1hoq269p8dari7h8m7njorpamte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61518282836-898mjh39tjf9jfedraabgiluvf84529b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movocado.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
